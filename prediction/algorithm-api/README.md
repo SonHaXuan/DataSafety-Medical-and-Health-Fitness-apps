@@ -11,7 +11,7 @@ python3 api.py
 ## Function
 
 -  /EM/predict
--  /SVM/LinearSVC/predict
+-  /TSVM/LinearSVC/predict
 -  /ML/:algorithm_name
 ```
     #algorithm_name is
